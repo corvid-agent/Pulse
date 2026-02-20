@@ -2,6 +2,8 @@
 
 A macOS menu bar app for viewing GitHub activity at a glance.
 
+![Pulse Screenshot](screenshot.png)
+
 ## Features
 
 - **Recent Activity** -- Last 10 GitHub events (pushes, PRs, issues, stars)
